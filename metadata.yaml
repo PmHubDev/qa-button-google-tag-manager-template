@@ -1,5 +1,5 @@
 homepage: "https://permate.com"
 documentation: "https://github.com/PmHubDev/qa-button-google-tag-manager-template"
 versions:
-  - sha: e044560ce2bb5219418441f3b0902f864fc1707f
+  - sha: cdf1de3d42f20d239ff17c1d47ffb0084436e532
     changeNotes: Initial release.
